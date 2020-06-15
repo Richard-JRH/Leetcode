@@ -1,0 +1,17 @@
+﻿  1) TwoSum.cpp
+  1108) Defanging an IP Address.cpp
+C:\2) Personal Projects\Leetcode\Leetcode\1108) Defanging an IP Address.cpp(9,23): warning C4018: '<': signed/unsigned mismatch
+  1221) Split a String in Balanced Strings.cpp
+C:\2) Personal Projects\Leetcode\Leetcode\1221) Split a String in Balanced Strings.cpp(9,20): warning C4018: '<': signed/unsigned mismatch
+  1281) Subtract the Product and Sum of Digits of an Integer.cpp
+C:\2) Personal Projects\Leetcode\Leetcode\1281) Subtract the Product and Sum of Digits of an Integer.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+C:\2) Personal Projects\Leetcode\Leetcode\1281) Subtract the Product and Sum of Digits of an Integer.cpp(15,40): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\2) Personal Projects\Leetcode\Leetcode\1281) Subtract the Product and Sum of Digits of an Integer.cpp(16,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  1290) Convert Binary Number in a Linked List to Integer.cpp
+C:\2) Personal Projects\Leetcode\Leetcode\1290) Convert Binary Number in a Linked List to Integer.cpp(41,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  771) Jewels and Stones.cpp
+C:\2) Personal Projects\Leetcode\Leetcode\771) Jewels and Stones.cpp(9,23): warning C4018: '<': signed/unsigned mismatch
+C:\2) Personal Projects\Leetcode\Leetcode\771) Jewels and Stones.cpp(10,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\2) Personal Projects\Leetcode\Debug\Leetcode.exe : fatal error LNK1120: 1 unresolved externals
