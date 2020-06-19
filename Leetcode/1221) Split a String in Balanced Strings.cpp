@@ -1,7 +1,3 @@
-#include <string>
-
-using namespace std;
-
 int balancedStringSplit(string str)
 {
 	int Count = 0, Ans = 0;

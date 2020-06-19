@@ -1,7 +1,3 @@
-#include <string>
-
-using namespace std;
-
 int reverse(int x)
 {
     string str = to_string(x), tmp = " ";

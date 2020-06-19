@@ -25,13 +25,19 @@
     <ClCompile Include="1281) Subtract the Product and Sum of Digits of an Integer.cpp" />
     <ClCompile Include="1290) Convert Binary Number in a Linked List to Integer.cpp" />
     <ClCompile Include="1295) Find Numbers with Even Number of Digits.cpp" />
+    <ClCompile Include="1299) Replace elements with greatest element on right side.cpp" />
+    <ClCompile Include="1313) Decompress Run-Length Encoded List.cpp" />
+    <ClCompile Include="1323) Maximum 69 Number.cpp" />
     <ClCompile Include="1342) Number of Steps to Reduce a Number to Zero.cpp" />
     <ClCompile Include="1365) How many numbers are smaller than the current number.cpp" />
+    <ClCompile Include="1431) Kids With the Greatest Number of Candies.cpp" />
     <ClCompile Include="1450) Number of Students Doing Homework at a Given Time.cpp" />
     <ClCompile Include="1470) Shuffle the Array.cpp" />
+    <ClCompile Include="1480) Running Sum of 1D Array.cpp" />
     <ClCompile Include="7) Reverse Integer.cpp" />
     <ClCompile Include="709) To Lower Case.cpp" />
     <ClCompile Include="771) Jewels and Stones.cpp" />
+    <ClCompile Include="9) Palindrome Number.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

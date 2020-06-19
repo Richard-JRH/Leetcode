@@ -1,7 +1,3 @@
-#include <string>
-
-using namespace std;
-
 string toLowerCase(string str)
 {
     for (int i = 0; i < str.length(); ++i)

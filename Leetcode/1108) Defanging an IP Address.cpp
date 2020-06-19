@@ -1,7 +1,3 @@
-#include <string>
-
-using namespace std;
-
 string defangIPaddr(string Addr)
 {
     string Temp;

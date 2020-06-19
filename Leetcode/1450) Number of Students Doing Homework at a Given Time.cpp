@@ -1,7 +1,3 @@
-#include <vector>
-
-using namespace std;
-
 int busyStudent(vector<int>& startTime, vector<int>& endTime, int queryTime)
 {
     int Count = 0;

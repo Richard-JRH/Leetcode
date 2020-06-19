@@ -1,7 +1,3 @@
-#include <string>	
-
-using namespace std;
-
 int subtractProductAndSum(int n)
 {
     string str = to_string(n);

@@ -1,7 +1,3 @@
-#include "string"
-
-using namespace std;
-
 int numJewelsInStones(string Jewel, string Stone)
 {
     int Count = 0;

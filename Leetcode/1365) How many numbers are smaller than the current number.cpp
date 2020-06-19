@@ -1,7 +1,3 @@
-#include <vector>
-
-using namespace std;
-
 vector<int> smallerNumbersThanCurrent(vector<int>& nums)
 {
     vector<int>Temp;

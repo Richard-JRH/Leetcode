@@ -54,5 +54,23 @@
     <ClCompile Include="709) To Lower Case.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1313) Decompress Run-Length Encoded List.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1431) Kids With the Greatest Number of Candies.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1480) Running Sum of 1D Array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="9) Palindrome Number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1299) Replace elements with greatest element on right side.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1323) Maximum 69 Number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
