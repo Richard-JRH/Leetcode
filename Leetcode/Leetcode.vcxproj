@@ -20,24 +20,35 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1%29 TwoSum.cpp" />
+    <ClCompile Include="1047) Remove all adjacent duplicates in string.cpp" />
     <ClCompile Include="1108) Defanging an IP Address.cpp" />
     <ClCompile Include="1221) Split a String in Balanced Strings.cpp" />
     <ClCompile Include="1281) Subtract the Product and Sum of Digits of an Integer.cpp" />
     <ClCompile Include="1290) Convert Binary Number in a Linked List to Integer.cpp" />
     <ClCompile Include="1295) Find Numbers with Even Number of Digits.cpp" />
     <ClCompile Include="1299) Replace elements with greatest element on right side.cpp" />
+    <ClCompile Include="1304 ) Find N unique integers sum up to zero.cpp" />
     <ClCompile Include="1313) Decompress Run-Length Encoded List.cpp" />
     <ClCompile Include="1323) Maximum 69 Number.cpp" />
     <ClCompile Include="1342) Number of Steps to Reduce a Number to Zero.cpp" />
     <ClCompile Include="1365) How many numbers are smaller than the current number.cpp" />
+    <ClCompile Include="1374) Generate a string with characters that have odd counts.cpp" />
+    <ClCompile Include="1389) Create target array in given order.cpp" />
     <ClCompile Include="1431) Kids With the Greatest Number of Candies.cpp" />
     <ClCompile Include="1450) Number of Students Doing Homework at a Given Time.cpp" />
     <ClCompile Include="1470) Shuffle the Array.cpp" />
+    <ClCompile Include="1475) Final prices with a special discount in a shop.cpp" />
     <ClCompile Include="1480) Running Sum of 1D Array.cpp" />
+    <ClCompile Include="1502) Can make arithmetic progression from sequence.cpp" />
+    <ClCompile Include="344) Reverse String.cpp" />
+    <ClCompile Include="461) Hamming Distance.cpp" />
     <ClCompile Include="7) Reverse Integer.cpp" />
+    <ClCompile Include="701) Insert into a binary search tree.cpp" />
     <ClCompile Include="709) To Lower Case.cpp" />
+    <ClCompile Include="728) Self Dividing Numbers.cpp" />
     <ClCompile Include="771) Jewels and Stones.cpp" />
     <ClCompile Include="9) Palindrome Number.cpp" />
+    <ClCompile Include="DailyProgrammer380.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

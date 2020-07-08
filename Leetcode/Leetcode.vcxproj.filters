@@ -72,5 +72,38 @@
     <ClCompile Include="1323) Maximum 69 Number.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DailyProgrammer380.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1304 ) Find N unique integers sum up to zero.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1475) Final prices with a special discount in a shop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1374) Generate a string with characters that have odd counts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1502) Can make arithmetic progression from sequence.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1389) Create target array in given order.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="701) Insert into a binary search tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="344) Reverse String.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1047) Remove all adjacent duplicates in string.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="728) Self Dividing Numbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="461) Hamming Distance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
