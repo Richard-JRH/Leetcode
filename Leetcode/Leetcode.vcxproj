@@ -21,7 +21,9 @@
   <ItemGroup>
     <ClCompile Include="1%29 TwoSum.cpp" />
     <ClCompile Include="1047) Remove all adjacent duplicates in string.cpp" />
+    <ClCompile Include="1051) Height Checker.cpp" />
     <ClCompile Include="1108) Defanging an IP Address.cpp" />
+    <ClCompile Include="1207) Unique number of occurrences.cpp" />
     <ClCompile Include="1221) Split a String in Balanced Strings.cpp" />
     <ClCompile Include="1281) Subtract the Product and Sum of Digits of an Integer.cpp" />
     <ClCompile Include="1290) Convert Binary Number in a Linked List to Integer.cpp" />
@@ -42,6 +44,8 @@
     <ClCompile Include="1502) Can make arithmetic progression from sequence.cpp" />
     <ClCompile Include="344) Reverse String.cpp" />
     <ClCompile Include="461) Hamming Distance.cpp" />
+    <ClCompile Include="557) Reverse words in a string 3.cpp" />
+    <ClCompile Include="561) Array partition 1.cpp" />
     <ClCompile Include="7) Reverse Integer.cpp" />
     <ClCompile Include="701) Insert into a binary search tree.cpp" />
     <ClCompile Include="709) To Lower Case.cpp" />

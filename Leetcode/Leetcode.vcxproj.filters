@@ -105,5 +105,17 @@
     <ClCompile Include="461) Hamming Distance.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1207) Unique number of occurrences.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="561) Array partition 1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1051) Height Checker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="557) Reverse words in a string 3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
