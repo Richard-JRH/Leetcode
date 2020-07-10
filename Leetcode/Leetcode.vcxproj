@@ -52,6 +52,7 @@
     <ClCompile Include="728) Self Dividing Numbers.cpp" />
     <ClCompile Include="771) Jewels and Stones.cpp" />
     <ClCompile Include="9) Palindrome Number.cpp" />
+    <ClCompile Include="977) Squares of a sorted array.cpp" />
     <ClCompile Include="DailyProgrammer380.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
