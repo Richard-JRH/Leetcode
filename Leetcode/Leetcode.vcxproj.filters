@@ -120,5 +120,26 @@
     <ClCompile Include="977) Squares of a sorted array.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="922) Sort array by parity 2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="905) Sort array by parity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="961) N-Repeated element in size 2N array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="884) Uncommon words from two sentences.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1486) XOR Operation in an Array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1387) Sort integers by the power value.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="75) Sort Colors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
