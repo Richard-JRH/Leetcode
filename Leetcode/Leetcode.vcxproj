@@ -44,6 +44,9 @@
     <ClCompile Include="1480) Running Sum of 1D Array.cpp" />
     <ClCompile Include="1486) XOR Operation in an Array.cpp" />
     <ClCompile Include="1502) Can make arithmetic progression from sequence.cpp" />
+    <ClCompile Include="191%29 Number of 1 bits.cpp" />
+    <ClCompile Include="231) Power of two.cpp" />
+    <ClCompile Include="338) Counting Bits.cpp" />
     <ClCompile Include="344) Reverse String.cpp" />
     <ClCompile Include="461) Hamming Distance.cpp" />
     <ClCompile Include="557) Reverse words in a string 3.cpp" />

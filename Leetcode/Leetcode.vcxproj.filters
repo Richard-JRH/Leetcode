@@ -141,5 +141,14 @@
     <ClCompile Include="75) Sort Colors.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="338) Counting Bits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="191%29 Number of 1 bits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="231) Power of two.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
