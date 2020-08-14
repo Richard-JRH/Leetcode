@@ -150,5 +150,23 @@
     <ClCompile Include="231) Power of two.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1512) Number of Good Pairs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="551) Student Attendance Record 1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="162) Find Peak Element.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="852) Peak index in a mountain array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1464) Maximum Product of Two Elements in an Array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1534) Count Good Triplets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
