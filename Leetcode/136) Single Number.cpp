@@ -1,15 +1,16 @@
-int singleNumber(vector<int>& nums)
+int singleNumber(vector<int>& nums) 
 {
-	map<int, int> mp;
-	
-	for (int &i : nums)
-	{
-		++mp[i];
-	}
-	
-	for (auto &itr : mp)
-		if (itr.second == 1)
-			return itr.first;
-	
-	return -1;
+    // Edge case handling
+    if (nums.size() == 1)
+        return nums.front();
+    
+    sort( nums.begin(), nums.end() );
+    
+    for (int i = 0; i < nums.size(); i += 2)
+    {
+        if (nums[i] != nums[i + 1])
+            return nums[i];
+    }
+    
+    return -1;
 }
